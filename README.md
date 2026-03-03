@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Prasad 👋
 
-<!--
-**psomani2109/psomani2109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year Information Technology Student  
+💻 C++ | Python | Data Structures & Algorithms  
+📍 Pune, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am currently focused on strengthening my fundamentals in programming and problem solving.
+
+I regularly practice Data Structures and Algorithms and work on writing clean, optimized code by improving time and space complexity.
+
+I am actively looking for internship opportunities in Software Development where I can learn, contribute, and grow as a developer.
+
+---
+
+## 🛠️ Languages & Tools
+
+- C
+- C++
+- Python
+- Git
+- VS Code
+
+---
+
+## 📈 Currently Working On
+
+- Improving DSA problem-solving consistency
+- Building structured repositories for my practice code
+- Preparing for Software Development internships
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: www.linkedin.com/in/prasad-somani-39948a300
