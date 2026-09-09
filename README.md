@@ -15,4 +15,4 @@ Information Technology undergrad at Sinhgad College of Engineering focused on lo
 - **60+ Day Practice Streak** maintaining consistent daily commits.
 
 ### 📬 Connect With Me
-- **LinkedIn:** linkedin.com/in/prasad-somani-39948a300
+- **LinkedIn:** (https://www.linkedin.com/in/prasad-somani-39948a300)
