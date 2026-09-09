@@ -1,39 +1,18 @@
-# Hi, I'm Prasad 👋
+# Hi, I'm Prasad Somani 👋
 
-🎓 3rd Year Information Technology Student  
-💻 C++ | Python | Data Structures & Algorithms  
-📍 Pune, India  
+Information Technology undergrad at Sinhgad College of Engineering focused on low-level fundamentals, algorithmic problem-solving, and automated developer tooling.
 
----
+### 🛠 Tech Stack
+- **Languages:** C++, C, Python
+- **Core CS:** Data Structures & Algorithms, Object-Oriented Programming (OOP), Operating Systems
+- **Tools & Environments:** Linux / Ubuntu, Git, GitHub Actions (CI/CD), GCC/g++, VS Code
 
-## 🚀 About Me
+### 🚀 Featured Project
+- [**AI-Powered PR Sentinel**](https://github.com/psomani2109/ai-pr-sentinel): Event-driven CI/CD automation pipeline using GitHub Actions and Python to conduct automated static code reviews on pull requests.
 
-I am currently focused on strengthening my fundamentals in programming and problem solving.
+### 📊 Algorithmic Practice
+- **199+ Problems Solved** across GeeksforGeeks and LeetCode in C++.
+- **60+ Day Practice Streak** maintaining consistent daily commits.
 
-I regularly practice Data Structures and Algorithms and work on writing clean, optimized code by improving time and space complexity.
-
-I am actively looking for internship opportunities in Software Development where I can learn, contribute, and grow as a developer.
-
----
-
-## 🛠️ Languages & Tools
-
-- C
-- C++
-- Python
-- Git
-- VS Code
-
----
-
-## 📈 Currently Working On
-
-- Improving DSA problem-solving consistency
-- Building structured repositories for my practice code
-- Preparing for Software Development internships
-
----
-
-## 📫 Connect With Me
-
-LinkedIn: www.linkedin.com/in/prasad-somani-39948a300
+### 📬 Connect With Me
+- **LinkedIn:** linkedin.com/in/prasad-somani-39948a300
